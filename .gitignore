@@ -1,0 +1,3 @@
+# Excluir arquivos .txt do git
+*.txt
+
